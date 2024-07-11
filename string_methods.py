@@ -1,6 +1,7 @@
 name = 'rvndu'
 
-# length - len
+# length - len()
 print(len(name))
 
-# 
+# character finder - find()
+print(name.find('r'))
