@@ -1,5 +1,5 @@
 #  slicing - create a substring by extracting elements from another string
-# indexing[] / slice()
+# indexing[]
 # [start:stop:step]
 
 name = 'bro code'
