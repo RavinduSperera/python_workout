@@ -3,7 +3,7 @@
 height = 176
 name = 'Ravindu Perera'
 
-# method 1 - C type formatting"""
+# method 1 - C type formatting
 """message = 'Hello %s, Your heigjt is %d.' %(name, height)"""
 
 # method 2 - .format() - can do indexing as well 
