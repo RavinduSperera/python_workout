@@ -17,6 +17,7 @@ print(content)
 
 file.close() # closing a file is very important
 
+# when reading
 """
 file modes:
     r - read only
@@ -26,5 +27,5 @@ file modes:
     b - binary
     t - text mode
     + - updating
-    
+
 """
