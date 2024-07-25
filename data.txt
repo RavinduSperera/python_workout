@@ -1,0 +1,13 @@
+Name, Subject, Marks
+Praneeth, Science, 75
+Saman, Science, 89
+Siri, Science, 55
+Kusum, Science, 90
+Gunaya, Science, 67
+Praneeth, Sinhala, 51
+Saman, Sinhala, 58
+Kelum, Sinhala, 96
+Kususm, Sinhala, 87
+Gunaya, Sinhala, 78
+Praneeth, Math, 85
+Saman, Math, 35
