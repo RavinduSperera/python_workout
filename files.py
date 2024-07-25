@@ -12,11 +12,6 @@ readline() - reads line by line (use a loop)
 content = file.readline()
 
 """
-
-print(content)
-
-file.close() # closing a file is very important
-
 # when reading
 """
 file modes:
@@ -29,3 +24,9 @@ file modes:
     + - updating
 
 """
+
+
+
+print(content)
+
+file.close() # closing a file is very important
