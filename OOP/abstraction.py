@@ -1,1 +1,0 @@
-# abstraction - Obeject oriented concept 
